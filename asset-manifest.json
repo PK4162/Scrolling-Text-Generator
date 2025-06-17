@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Scrolling-Text-Generator/static/js/main.f901f16e.js",
+    "main.js": "/Scrolling-Text-Generator/static/js/main.1d10bb82.js",
     "index.html": "/Scrolling-Text-Generator/index.html",
-    "main.f901f16e.js.map": "/Scrolling-Text-Generator/static/js/main.f901f16e.js.map"
+    "main.1d10bb82.js.map": "/Scrolling-Text-Generator/static/js/main.1d10bb82.js.map"
   },
   "entrypoints": [
-    "static/js/main.f901f16e.js"
+    "static/js/main.1d10bb82.js"
   ]
 }
